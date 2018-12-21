@@ -1,0 +1,12 @@
+imap:
+  imapUrl: ""
+  user: ""
+  pwd: ""
+  port: 993
+  folder: "INBOX"
+  periodicTrigger: 50000
+  maxFetchSize: 1
+
+logging:
+  level:
+    example.spring.integration.imapmail: DEBUG
